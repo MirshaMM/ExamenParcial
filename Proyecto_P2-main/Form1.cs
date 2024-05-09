@@ -26,13 +26,13 @@ namespace persona_herencia
         }
 
         private void limpiar_Click(object sender, EventArgs e)
-        {
+        {    
             // se hace de tarea
             // debe de borrar las cajas de texto
         }
 
         private void Salir_Click(object sender, EventArgs e)
-        {
+        {   
             // se hace de tarea
             // debe de terminar la ejecucion de la interfaz
         }
